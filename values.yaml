@@ -1,0 +1,3 @@
+replicaCount: 1
+image: nginxinc/nginx-unprivileged:latest
+appName: demo-piloto
