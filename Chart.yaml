@@ -1,0 +1,3 @@
+apiVersion: v2
+name: demo-piloto
+version: 0.1.0
